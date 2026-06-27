@@ -1,50 +1,4 @@
-class disjoint
-{
-    private:
-    vector<int>sz;
-    vector<int>parent;
-    public:
-    disjoint(int n)
-    {
-        sz.resize(n+1,1);
-        parent.resize(n+1);
-        for(int i=0;i<=n;i++)
-        {
-            parent[i]=i;
-        }
-    }
-    int findpar(int u)
-    {
-        if(parent[u]==u)
-        {
-            return u;
-        }
-        else
-        {
-            return parent[u]=findpar(parent[u]);
-        }
-    }
-    void unionbysz(int u,int v)
-    {
-        int par_u=findpar(u);
-        int par_v=findpar(v);
-        if(par_u==par_v)
-        {
-            return;
-        }
-        if(sz[par_u]>sz[par_v])
-        {
-            sz[par_u]+=sz[par_v];
-            parent[par_v]=par_u;
-        }
-        else
-        {
-            sz[par_v]+=sz[par_u];
-            parent[par_u]=par_v;
-        }
-    }
 
-};
 
 
 class Solution {
@@ -52,34 +6,33 @@ public:
     int minCostConnectPoints(vector<vector<int>>& points) {
 
         int n=points.size();
-        vector<pair<int,pair<int,int>>>edges;
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-                if(i==j)
-                continue;
-                edges.push_back({(abs(points[i][0]-points[j][0])+abs(points[i][1]-points[j][1])),{i,j}});
-
-            }
-        }
-        sort(edges.begin(),edges.end());
-        disjoint ds(n);
+        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>pq;
+        pq.push({0,{0,-1}});
+        vector<int>vis(n,0);
         int ans=0;
-        for(int i=0;i<edges.size();i++)
+        while(!pq.empty())
         {
-            int u=edges[i].second.first;
-            int v=edges[i].second.second;
-            int cost=edges[i].first;
-            if(ds.findpar(u)!=ds.findpar(v))
+            int node=pq.top().second.first;
+            int cost=pq.top().first;
+            int parent=pq.top().second.second;
+            pq.pop();
+            if(vis[node])continue;
+            if(parent!=-1)
             {
-                ds.unionbysz(u,v);
                 ans+=cost;
             }
+            vis[node]=1;
+            
+            for(int i=0;i<n;i++)
+            {
+                if(!vis[i] && i!=node)
+                {
+                    int wei=abs(points[i][0]-points[node][0])+abs(points[i][1]-points[node][1]);
+                    pq.push({wei,{i,node}});
+                }
+            }
+
         }
         return ans;
-
-
-        
     }
 };
