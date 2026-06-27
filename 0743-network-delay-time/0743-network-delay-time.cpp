@@ -10,14 +10,14 @@ public:
             int weight=it[2];
             adj[u-1].push_back({v-1,weight});
         }
-        priority_queue<pair<int,int>>pq;
-        pq.push({k-1,0});
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+        pq.push({0,k-1});
         vector<int>dist(n,1e9);
         dist[k-1]=0;
         while(!pq.empty())
         {
-            int node=pq.top().first;
-            int weight=pq.top().second;
+            int node=pq.top().second;
+            int weight=pq.top().first;
             pq.pop();
             if(weight>dist[node])
             {
@@ -30,7 +30,7 @@ public:
                 if(dist[adjnode]>edgeweight+dist[node])
                 {
                     dist[adjnode]=edgeweight+dist[node];
-                    pq.push({adjnode,dist[adjnode]});
+                    pq.push({dist[adjnode],adjnode});
                 }
 
             }
