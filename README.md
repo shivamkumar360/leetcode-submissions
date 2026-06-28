@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0212-word-search-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0212-word-search-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0332-reconstruct-itinerary](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0695-max-area-of-island) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0091-decode-ways) |
+| [0300-longest-increasing-subsequence](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0133-clone-graph) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
