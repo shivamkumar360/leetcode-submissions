@@ -10,15 +10,22 @@ public:
             int y=it[1];
             pq.push({(x*x+y*y),{x,y}});
         }
-        vector<vector<int>>ans;
-        for(int i=0;i<k;i++)
+      //  vector<vector<int>>ans;
+        for(int i=0;i<n;i++)
         {
+            if(i>k-1)
+            {
+                points.pop_back();
+            }
+            else
+            {
             int x=pq.top().second.first;
             int y=pq.top().second.second;
             pq.pop();
-            ans.push_back({x,y});
+            points[i]={x,y};
+            }
         }
-        return ans;
+        return points;
         
     }
 };
