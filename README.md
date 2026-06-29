@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0191-number-of-1-bits) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
