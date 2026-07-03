@@ -20,12 +20,9 @@ public:
             dp[i]=nums[i]+max(0LL,temp);
 
             maxm=max(maxm,dp[i]);
-            // if (dp[i] > 0) {
             while (!dq.empty() && dp[i] >= dp[dq.back()])
             dq.pop_back();
             dq.push_back(i);
-          //  }
-
         }
         return maxm;
     
