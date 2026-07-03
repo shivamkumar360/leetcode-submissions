@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Stack
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Shortest Path
 |  |
 | ------- |
@@ -174,12 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Sliding Window
 |  |
 | ------- |
