@@ -69,7 +69,7 @@ public:
             int u=it[0];
             int v=it[1];
             int distance=it[2];
-            if(ds.findpar(1)==ds.findpar(u) || ds.findpar(1)==ds.findpar(v))
+            if(ds.findpar(1)==ds.findpar(u))
             {
                ans=min(ans,distance);
             }
