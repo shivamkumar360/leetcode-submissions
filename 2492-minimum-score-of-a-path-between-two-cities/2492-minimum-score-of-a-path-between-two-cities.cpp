@@ -25,8 +25,8 @@ class disjoint
     }
     void unionbysz(int u,int v)
     {
-        int par_u=par[u];
-        int par_v=par[v];
+        int par_u = findpar(u);
+        int par_v = findpar(v);
         if(par_u==par_v)
         {
             return;
@@ -50,26 +50,8 @@ public:
 
     int ans=1e5;
     
-    void dfs(int node,vector<pair<int,int>>adj[],vector<int>&vis)
-    {
-        vis[node]=1;
-        for(auto it:adj[node])
-        {
-            int adjnode=it.first;
-            int dist=it.second;
-            ans=min(ans,dist);
-
-            if(!vis[adjnode])
-            {
-                
-                dfs(adjnode,adj,vis);
-            }
-        }
-
-    }
     int minScore(int n, vector<vector<int>>& roads) {
 
-        //vector<pair<int,int>>adj[n];
         disjoint ds(n);
         for(auto it:roads)
         {
@@ -80,8 +62,7 @@ public:
             {
                 ds.unionbysz(u,v);
             }
-            // adj[u-1].push_back({v-1,distance});
-            // adj[v-1].push_back({u-1,distance});
+           
         }
         for(auto it:roads)
         {
@@ -92,28 +73,10 @@ public:
             {
                ans=min(ans,distance);
             }
-            // adj[u-1].push_back({v-1,distance});
-            // adj[v-1].push_back({u-1,distance});
+           
         }
 
-        // for(auto it:adj[0])
-        // {
-        //     if(ds.unionbysz(0,it));
-        // }
-        // for(auto it:adj[n-1])
-        // {
-        //     if(ds.unionbysz(n-1,it));
-        // }
-        // for(auto it:roads)
-        // {
-        //     int u=it[0];
-        //     int v=it[1];
-        //     int distance=it[2];
-        //     if(ds.findpar(u)==ds.findpar(0) || ds.findpar())
-
-        // }
-        // vector<int>vis(n,0);
-        // dfs(0,adj,vis);
+        
         return ans;
         
     }
