@@ -33,21 +33,20 @@ public:
         set<int>st;
         long long ans=-1e18;
          long long maxm=-1e18;
-        for(auto i:nums)
+        for(auto x:nums)
         {
-            int j=2;
-            while(i>=j)
-            {
-                if(i%j==0)
-                {
-                    st.insert(j);
-                    while(i%j==0)
-                    {
-                        i=i/j;
-                    }
-                }
-                j++;
-            }
+            int t = x;
+         for (int j = 2; j * j <= t; j++)
+        {
+         if (t % j == 0)
+          {
+            st.insert(j);
+            while (t % j == 0)
+                t /= j;
+        }
+    }
+    if (t > 1)
+        st.insert(t);
         }
         int k=2;
         if(st.empty())
