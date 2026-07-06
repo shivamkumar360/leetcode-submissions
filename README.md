@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0853-car-fleet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0307-range-sum-query-mutable) |
+## Greedy
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
