@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
 | [1745-palindrome-partitioning-iv](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1745-palindrome-partitioning-iv) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Stack
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Monotonic Queue
 |  |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Sliding Window
 |  |
@@ -218,12 +223,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0715-range-module](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0715-range-module) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Greedy
 |  |
 | ------- |
