@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0853-car-fleet) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0853-car-fleet) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## String
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Shortest Path
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
@@ -231,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0715-range-module](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0715-range-module) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Greedy
 |  |
 | ------- |
