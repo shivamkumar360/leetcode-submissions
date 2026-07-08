@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0307-range-sum-query-mutable) |
+| [0715-range-module](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0715-range-module) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0715-range-module](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0715-range-module) |
 ## Greedy
 |  |
 | ------- |
@@ -234,4 +236,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0715-range-module](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0715-range-module) |
 <!---LeetCode Topics End-->
