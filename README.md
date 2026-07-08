@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0647-palindromic-substrings](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [1745-palindrome-partitioning-iv](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1745-palindrome-partitioning-iv) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Backtracking
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0715-range-module](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0715-range-module) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Greedy
@@ -251,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0715-range-module](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0715-range-module) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
