@@ -1,54 +1,10 @@
-class disjoint
-{
-    vector<int>par;
-    vector<int>sz;
-    public:
-    disjoint(int n)
-    {
-        par.resize(n+1);
-        sz.resize(n+1,1);
-        for(int i=0;i<=n;i++)
-        {
-            par[i]=i;
-        }
-    }
-    int findpar(int u)
-    {
-        if(par[u]==u)
-        {
-            return u;
-        }
-        return par[u]=findpar(par[u]);
-    }
-    void unionbysz(int u,int v)
-    {
-        int par_u=findpar(u);
-        int par_v=findpar(v);
-        if(par_u==par_v)
-        {
-            return;
-        }
-        if(sz[par_u]>sz[par_v])
-        {
-            sz[par_u]+=sz[par_v];
-            par[par_v]=par_u;
-        }
-        else
-        {
-            sz[par_v]+=sz[par_u];
-            par[par_u]=par_v;
-        }
-    }
 
-};
 
 
 class Solution {
 public:
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
 
-        
-     //   disjoint ds(n);
         vector<int>temp(n);
         int cnt=0;
         temp[0]=0;
@@ -63,7 +19,6 @@ public:
                 cnt++;
                 temp[i+1]=cnt;
             }
-            //ds.unionbysz(i, i + 1);
             }
 
 
