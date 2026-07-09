@@ -54,24 +54,8 @@ public:
         {
             if(i!=n-1)
             {
-            auto it=upper_bound(nums.begin()+i+1,nums.end(),maxDiff+nums[i]);
-
-            int idx;
-            if(it==nums.end())
-            {
-                idx=n-1;
-            }
-            else
-            {
-                idx=it-nums.begin()-1;
-            }
-            if(idx>=i+1)
-            {
-                if(ds.findpar(i)!=ds.findpar(min(idx,i+1)))
-                {
-                    ds.unionbysz(i,min(idx,i+1));
-                }
-            }
+            if (nums[i + 1] - nums[i] <= maxDiff)
+        ds.unionbysz(i, i + 1);
             }
 
 
