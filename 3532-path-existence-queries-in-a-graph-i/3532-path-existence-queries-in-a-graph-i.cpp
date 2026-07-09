@@ -48,14 +48,22 @@ public:
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
 
         
-        disjoint ds(n);
-
+     //   disjoint ds(n);
+        vector<int>temp(n);
+        int cnt=0;
+        temp[0]=0;
         for(int i=0;i<n;i++)
         {
             if(i!=n-1)
             {
             if (nums[i + 1] - nums[i] <= maxDiff)
-        ds.unionbysz(i, i + 1);
+            temp[i+1]=temp[i];
+            else
+            {
+                cnt++;
+                temp[i+1]=cnt;
+            }
+            //ds.unionbysz(i, i + 1);
             }
 
 
@@ -70,7 +78,7 @@ public:
         {
             int u=it[0];
             int v=it[1];
-            if(ds.findpar(u)==ds.findpar(v))
+            if(temp[u]==temp[v])
             {
                 ans.push_back(true);
             }
