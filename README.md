@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2736-maximum-sum-queries](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2736-maximum-sum-queries) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
