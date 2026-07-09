@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3943-number-of-pairs-after-increment](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3943-number-of-pairs-after-increment) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0133-clone-graph) |
+| [3943-number-of-pairs-after-increment](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3943-number-of-pairs-after-increment) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
+| [3943-number-of-pairs-after-increment](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3943-number-of-pairs-after-increment) |
 ## Geometry
 |  |
 | ------- |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0715-range-module](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0715-range-module) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Counting
+|  |
+| ------- |
+| [3943-number-of-pairs-after-increment](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3943-number-of-pairs-after-increment) |
 <!---LeetCode Topics End-->
