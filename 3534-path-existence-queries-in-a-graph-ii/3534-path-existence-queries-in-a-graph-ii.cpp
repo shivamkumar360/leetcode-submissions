@@ -12,10 +12,10 @@ public:
         {
             return 0;
         }
-        // if(up[0][u]>=v)
-        // {
-        //     return 1;
-        // }
+        if(up[0][u]>=v)
+        {
+            return 1;
+        }
         if(up[logm-1][u]<v)
         {
             return -1;
