@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0091-decode-ways) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0647-palindromic-substrings) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0133-clone-graph) |
 | [0332-reconstruct-itinerary](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -290,9 +292,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
