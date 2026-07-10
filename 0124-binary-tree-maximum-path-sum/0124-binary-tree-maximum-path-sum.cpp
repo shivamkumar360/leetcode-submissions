@@ -22,7 +22,7 @@ int ans=-1e8;
     }
     if(node->left==NULL && node->right==NULL)
     {
-        ans=max(ans,node->val);
+       ans=max(ans,node->val);
         return node->val;
     }
     int left=max(0,height(node->left));
