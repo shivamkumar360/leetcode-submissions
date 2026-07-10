@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0133-clone-graph) |
 | [0332-reconstruct-itinerary](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0743-network-delay-time) |
@@ -286,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3943-number-of-pairs-after-increment](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3943-number-of-pairs-after-increment) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
