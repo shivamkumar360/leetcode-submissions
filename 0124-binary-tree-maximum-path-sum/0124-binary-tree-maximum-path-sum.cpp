@@ -20,11 +20,6 @@ int ans=-1e8;
     {
         return 0;
     }
-    if(node->left==NULL && node->right==NULL)
-    {
-       ans=max(ans,node->val);
-        return node->val;
-    }
     int left=max(0,height(node->left));
     int right=max(0,height(node->right));
     ans=max(ans,left+right+node->val);
