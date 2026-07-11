@@ -10,48 +10,25 @@
 class Solution {
 public:
 
-   TreeNode* ans=NULL;
+   //TreeNode* ans=NULL;
 
 
-    void lca(TreeNode* root,TreeNode* p,TreeNode*q,unordered_map<TreeNode*,pair<bool,bool>>&mp)
+    TreeNode* lca(TreeNode* root,TreeNode* p,TreeNode*q)
     {
-        mp[root]={false,false};
-        if(root==p)
+        if(root==p || root==q || root==NULL)
         {
-            mp[root].first=true;
+            return root;
         }
-        if(root==q)
+        TreeNode* left=  lca(root->left,p,q);
+        TreeNode* right= lca(root->right,p,q);
+        if(left!=NULL && right!=NULL)
         {
-            mp[root].second=true;
+            return root;
         }
-        if(root->left!=NULL)
-        {
-            lca(root->left,p,q,mp);
-            if(mp[root->left].first==true)
-            {
-                mp[root].first=true;
-            }
-            if(mp[root->left].second==true)
-            {
-                mp[root].second=true;
-            }
-        }
-        if(root->right!=NULL)
-        {
-            lca(root->right,p,q,mp);
-            if(mp[root->right].first==true)
-            {
-                mp[root].first=true;
-            }
-            if(mp[root->right].second==true)
-            {
-                mp[root].second=true;
-            }
-        }
-        if(mp[root].first==true && mp[root].second==true && ans==NULL)
-        {
-            ans= root;
-        }
+        else if(left==NULL)
+        return right;
+        return left;
+   
     }
 
 
@@ -63,9 +40,9 @@ public:
         {
             return NULL;
         }
-        unordered_map<TreeNode*,pair<bool,bool>>mp;
-        lca(root,p,q,mp);
-        return ans;
+   
+        return lca(root,p,q);
+    
 
 
 
