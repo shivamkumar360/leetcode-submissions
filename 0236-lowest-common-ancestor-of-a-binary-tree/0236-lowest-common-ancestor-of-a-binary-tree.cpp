@@ -13,7 +13,7 @@ public:
    TreeNode* ans=NULL;
 
 
-    void lca(TreeNode* root,TreeNode* p,TreeNode*q,map<TreeNode*,pair<bool,bool>>&mp)
+    void lca(TreeNode* root,TreeNode* p,TreeNode*q,unordered_map<TreeNode*,pair<bool,bool>>&mp)
     {
         mp[root]={false,false};
         if(root==p)
@@ -63,7 +63,7 @@ public:
         {
             return NULL;
         }
-        map<TreeNode*,pair<bool,bool>>mp;
+        unordered_map<TreeNode*,pair<bool,bool>>mp;
         lca(root,p,q,mp);
         return ans;
 
