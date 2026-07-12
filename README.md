@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0647-palindromic-substrings) |
+| [1048-longest-string-chain](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [1048-longest-string-chain](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1696-jump-game-vi](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1696-jump-game-vi) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0332-reconstruct-itinerary](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0647-palindromic-substrings](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0647-palindromic-substrings) |
+| [1048-longest-string-chain](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1745-palindrome-partitioning-iv](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1745-palindrome-partitioning-iv) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Backtracking
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2736-maximum-sum-queries](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2736-maximum-sum-queries) |
@@ -194,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0133-clone-graph) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3943-number-of-pairs-after-increment](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3943-number-of-pairs-after-increment) |
