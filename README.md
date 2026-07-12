@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1046-last-stone-weight) |
+| [1331-rank-transform-of-an-array](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2736-maximum-sum-queries](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2736-maximum-sum-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0133-clone-graph) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3943-number-of-pairs-after-increment](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3943-number-of-pairs-after-increment) |
 ## Binary Search
