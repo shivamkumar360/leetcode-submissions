@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
