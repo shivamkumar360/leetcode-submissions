@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3920-maximize-fixed-points-after-deletions) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 ## Design
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Merge Sort
 |  |
