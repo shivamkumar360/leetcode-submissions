@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3920-maximize-fixed-points-after-deletions](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3920-maximize-fixed-points-after-deletions) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3943-number-of-pairs-after-increment](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3943-number-of-pairs-after-increment) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2736-maximum-sum-queries](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2736-maximum-sum-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3920-maximize-fixed-points-after-deletions](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3920-maximize-fixed-points-after-deletions) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Eulerian Circuit
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3920-maximize-fixed-points-after-deletions](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3920-maximize-fixed-points-after-deletions) |
 ## Math
 |  |
 | ------- |
