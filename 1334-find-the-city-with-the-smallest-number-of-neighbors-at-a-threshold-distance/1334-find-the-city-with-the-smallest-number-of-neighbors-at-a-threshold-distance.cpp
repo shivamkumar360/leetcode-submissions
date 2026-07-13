@@ -44,7 +44,7 @@ public:
             }
             if(cnt<=minm)
             {
-                ans=max(ans,i);
+                ans=i;
                 minm=cnt;
             }
 
