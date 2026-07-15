@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -363,4 +364,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
