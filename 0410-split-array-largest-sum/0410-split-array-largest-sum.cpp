@@ -30,8 +30,8 @@ public:
 
     int splitArray(vector<int>& nums, int k) {
 
-        long long st=0;
-        long long end=1e9+1;
+        long long st=*max_element(nums.begin(),nums.end());
+        long long end=accumulate(nums.begin(),nums.end(),0LL);
         long long ans=0;
         while(st<=end)
         {
