@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0212-word-search-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0212-word-search-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0853-car-fleet) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0853-car-fleet) |
 | [2736-maximum-sum-queries](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2736-maximum-sum-queries) |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0695-max-area-of-island) |
