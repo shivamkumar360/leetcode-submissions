@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1745-palindrome-partitioning-iv](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1745-palindrome-partitioning-iv) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
