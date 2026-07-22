@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1745-palindrome-partitioning-iv](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1745-palindrome-partitioning-iv) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3241-time-taken-to-mark-all-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2603-collect-coins-in-a-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2603-collect-coins-in-a-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0834-sum-of-distances-in-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2603-collect-coins-in-a-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2603-collect-coins-in-a-tree) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3241-time-taken-to-mark-all-nodes) |
 ## Binary Tree
 |  |
 | ------- |
