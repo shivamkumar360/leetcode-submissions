@@ -20,6 +20,12 @@ public:
             {
                 mp[s[l]-'A']--;
                 l++;
+                int temp=0;
+                for(auto it:mp)
+                {
+                    temp=max(temp,it.second);
+                }
+                maxm=temp;
                 len=r-l+1;
             }
             ans=max(ans,len);
