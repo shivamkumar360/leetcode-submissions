@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Queue
 |  |
