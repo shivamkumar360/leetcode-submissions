@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0091-decode-ways) |
 | [0212-word-search-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0212-word-search-ii) |
 | [0332-reconstruct-itinerary](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1745-palindrome-partitioning-iv](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1745-palindrome-partitioning-iv) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0133-clone-graph) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1048-longest-string-chain) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1425-constrained-subsequence-sum) |
 ## Prefix Sum
