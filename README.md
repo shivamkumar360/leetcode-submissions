@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0778-swim-in-rising-water) |
+| [0851-loud-and-rich](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0851-loud-and-rich) |
 | [0853-car-fleet](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0853-car-fleet) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0778-swim-in-rising-water) |
 | [0834-sum-of-distances-in-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0834-sum-of-distances-in-tree) |
+| [0851-loud-and-rich](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0851-loud-and-rich) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2685-count-the-number-of-complete-components) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0834-sum-of-distances-in-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0834-sum-of-distances-in-tree) |
+| [0851-loud-and-rich](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0851-loud-and-rich) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivamkumar360/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -420,5 +423,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0851-loud-and-rich](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0851-loud-and-rich) |
 | [2603-collect-coins-in-a-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/2603-collect-coins-in-a-tree) |
 <!---LeetCode Topics End-->
