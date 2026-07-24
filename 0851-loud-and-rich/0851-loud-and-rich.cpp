@@ -2,17 +2,20 @@ class Solution {
 public:
 
 
-    void dfs(int node,vector<int>adj[],vector<int>&vis,vector<int>&order)
+    int  dfs(int node,vector<int>adj[],vector<int>&vis,vector<int>&ans,vector<int>&quiet)
     {
-        vis[node]=1;
+        if(vis[node]) return ans[node];
+        ans[node]=node;
         for(auto it:adj[node])
         {
-            if(!vis[it])
+            int x=dfs(it,adj,vis,ans,quiet);
+            if(quiet[ans[node]]>quiet[x])
             {
-                dfs(it,adj,vis,order);
+               ans[node]=x;
             }
         }
-        order.push_back(node);
+        vis[node]=1;
+        return ans[node];
     }
 
 
@@ -27,27 +30,33 @@ public:
             int v=it[1];
             adj[v].push_back(u);
         }
-            vector<int>order;
+          //  vector<int>order;
             vector<int>vis(n,0);
-            for(int i=0;i<n;i++)
-            if(!vis[i])
-            dfs(i,adj,vis,order);
-            reverse(order.begin(),order.end());
-            vector<int>ans(n);
-            for(int i=order.size()-1;i>=0;i--)
-            {
-                int minm=order[i];
-                for(auto it:adj[order[i]])
-                {
-                    if(quiet[ans[it]]<quiet[minm])
-                    {
-                        minm=ans[it];
-                    }
-                }
-                ans[order[i]]=minm;
-            }
+        //     for(int i=0;i<n;i++)
+        //     if(!vis[i])
+        //     dfs(i,adj,vis,order);
+        //     reverse(order.begin(),order.end());
+        //     vector<int>ans(n);
+        //     for(int i=order.size()-1;i>=0;i--)
+        //     {
+        //         int minm=order[i];
+        //         for(auto it:adj[order[i]])
+        //         {
+        //             if(quiet[ans[it]]<quiet[minm])
+        //             {
+        //                 minm=ans[it];
+        //             }
+        //         }
+        //         ans[order[i]]=minm;
+        //     }
            
         
+        // return ans;
+
+        vector<int>ans(n);
+        for(int i=0;i<n;i++)
+        if(!vis[i])
+        int x=dfs(i,adj,vis,ans,quiet);
         return ans;
         
     }
