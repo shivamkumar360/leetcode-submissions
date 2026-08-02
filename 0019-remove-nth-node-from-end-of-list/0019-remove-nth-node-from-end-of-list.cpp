@@ -16,8 +16,12 @@ public:
         {
             return nullptr;
         }
-        ListNode* slow=head;
-        ListNode* fast=head;
+        ListNode* dummy = new ListNode(0);
+dummy->next = head;
+
+ListNode* fast = dummy;
+ListNode* slow = dummy;
+       
         int cnt=1;
         while(fast->next!=NULL)
         {
@@ -29,9 +33,9 @@ public:
             }
 
         }
-        if(n==cnt)return head->next;
+      //  if(n==cnt)return head->next;
          slow->next=slow->next->next;
-         return head;
+         return dummy->next;
         
     }
 };
