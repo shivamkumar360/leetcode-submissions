@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0695-max-area-of-island) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0834-sum-of-distances-in-tree) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
