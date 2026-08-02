@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0212-word-search-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0647-palindromic-substrings) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0695-max-area-of-island) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0307-range-sum-query-mutable) |
 | [0715-range-module](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0715-range-module) |
 ## Binary Indexed Tree
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0834-sum-of-distances-in-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -409,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamkumar360/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Enumeration
